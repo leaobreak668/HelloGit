@@ -11,6 +11,13 @@ public class HelloGw {
 		//靠
 		//abcdefgf
 		//fuck your br1
+		//
+		//fdsf
+		//fdsf
+		//dfsf
+		//sdfsdf
+		//
+		int i=0;
 	}
 
 }
