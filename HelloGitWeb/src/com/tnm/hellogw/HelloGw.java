@@ -7,10 +7,10 @@ public class HelloGw {
 		System.out.println("Hello...GitHub");
 		System.out.println("Hello Github");
 		//难首这里也要我解释一下吗，我真是搞不懂，这有什么好解释的。
-		//也不知道，为什么有的时候行，有的时候不行呢。
-		//fuck your br19999999999999999999
-		//尼码啊
-		//dfsd
+		//11也不知道，为什么有的时候行，有的时候不行呢。
+		//11fuck22 your br19999999999999999999
+		//尼码dsds啊
+		//dfsddsda
 	}
 
 }
